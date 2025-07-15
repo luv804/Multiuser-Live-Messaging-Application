@@ -38,9 +38,11 @@ This project is a **multiuser live chat application** built in Java. It features
 
 ## User Interface
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/96c6fb79-2216-4006-9519-108fdc75821a" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/24987e0c-ad62-4719-9672-c683b8cf70bf" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ef1bdd7c-a6af-43db-80fb-f00ef2b41985" />
+- Leveraging multithreading, the server manages simultaneous, real-time communication between three active client connections.
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/96c6fb79-2216-4006-9519-108fdc75821a" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/24987e0c-ad62-4719-9672-c683b8cf70bf" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ef1bdd7c-a6af-43db-80fb-f00ef2b41985" />
 
 
 
