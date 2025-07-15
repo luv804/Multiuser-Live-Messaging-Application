@@ -1,4 +1,4 @@
-# Java Multiuser Chat Application (GUI + Server)
+# Multiuser Live Messaging Application
 
 This project is a **multiuser live chat application** built in Java. It features:
 
