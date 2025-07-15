@@ -10,6 +10,12 @@ This project is a **multiuser live chat application** built in Java. It features
 
 ---
 
+## Architecture Diagram
+
+<img width="1614" height="899" alt="image" src="https://github.com/user-attachments/assets/b502d768-b22a-460a-8f78-683138604f43" />
+
+---
+
 ## Features
 
 - Connect multiple clients to a central server
